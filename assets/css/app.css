@@ -1,0 +1,15 @@
+
+body {
+    display: grid;
+    width: 100%;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(3, 33.3%); 
+}
