@@ -36,3 +36,33 @@ img {
     max-height: 200px;
     object-fit: cover;
 }
+
+.intro {
+    font-size: 1.8rem;
+    font-weight: 600;
+    text-align: center;
+    color: #6a4e4e;
+}
+
+.article-text {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+    color: #0b0606;
+    margin-bottom: 40px;
+}
+
+.btn-download {
+    width: 80%;
+    align-self: center;
+    background-color: cornflowerblue;
+    border-style: none;
+}
+
+.download {
+    text-decoration: none;
+    color: #0b0606;
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 3rem;
+}
